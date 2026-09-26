@@ -1,0 +1,12 @@
+1. Generalizacion simbólica: TypeScript por lo que vi tiene un tipado estatico, por lo cual hay que declarar que tipo de dato es cada
+variable dentro del programa. Ademas el codigo solo puedo fluir usando secuencias, selecciones y ciclos. Si rompemos esta regla el compilador
+frena todo o te lo puede marcar en rojo
+
+2. Creencias de los profesionales: Yo creo que lo eligen al ser tan estricto y mayormente lanzar errores durante la escritura de codigo para 
+evitar interrupciones durante el uso del programa, y dentro de todo el codigo es facil de leer no como otros lenguajes.
+
+3. Valores y Modelos: Aca lo que se analiza es la previsibilidad, por ejemplo si tengo una interfaz 'Tarea' en ella, en el contrato dice
+que deberia haber un titulo, estado y dificultad, no pueden entrar datos no correspondidos o alguna que otra sorpresa
+
+4. Ejemplares: Los ejemplares son las soluciones a problemas comunes, como por ejemplo para armar un menu sin usar un if/else enorme podemos
+utilizar el metodo 'switch', tambien para validar datos tenemos 'while' o 'for' para recorrer arrays
